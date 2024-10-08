@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Homeworks\Homework8\task8\task8\bin\Debug\task8.exe.config
+C:\Users\user\Desktop\Homeworks\Homework8\task8\task8\bin\Debug\task8.exe
+C:\Users\user\Desktop\Homeworks\Homework8\task8\task8\bin\Debug\task8.pdb
+C:\Users\user\Desktop\Homeworks\Homework8\task8\task8\obj\Debug\task8.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework8\task8\task8\obj\Debug\task8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework8\task8\task8\obj\Debug\task8.exe
+C:\Users\user\Desktop\Homeworks\Homework8\task8\task8\obj\Debug\task8.pdb
